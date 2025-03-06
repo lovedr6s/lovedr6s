@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
+I'm a **Python Developer** with a passion for clean code, problem-solving, and continuous learning.
 
-<!--
-**lovedr6s/lovedr6s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to contact me:
+- **Email:** praense@icloud.com
+- **Telegram:** [@lovedr6s](https://t.me/lovedr6s)
+  
+## Education:  
+- **Radioelectronics and Telecommunications College**  
+- **Hexlet Python Course** *(currently learning)*
+  
+## Books I Like:
+- *Stephen King's works*  
+- Currently exploring **philosophy and history**, especially Ancient Greece and Egypt
+  
+## Fundamental Knowledge:  
+- Operating Systems, **Linux proficiency**  
+- Networks: **TCP/IP, HTTP**  
+- Databases: **SQL**
+    
+## Applied Knowledge:  
+- **Python** (actively learning advanced concepts)  
+- Web Technologies: **HTML, CSS**  
+- **Git & Version Control**  
+- **Automated Testing** *(learning to improve skillset)* 
 
-Here are some ideas to get you started:
+  ## Currently Learning & Goals:  
+- **Deep dive into Python** (wrappers, data structures, algorithms)  
+- **Mastering SQL & Databases**  
+- **Building structured knowledge in Computer Science**  
+- Improving **problem-solving** skills
+- Preparing to **land a job as a developer** this year  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## Interests & Side Projects:  
+- **Photography & lifestyle blogging** 
+- Learning **German for daily communication**
