@@ -20,9 +20,10 @@ I'm a **Python Developer** with a passion for clean code, problem-solving, and c
     
 ## <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> Applied Knowledge:
 - Programming languages: **Python**
+- Python Libraries: **Django, FastApi, SQLAlchemy, sockets...**
 - Web Technologies: **HTML, CSS**
 - **Git & Version Control**  
-- **Automated Testing** *(learning to improve skillset)* 
+- **Automated Testing** *(learning to improve skillset)*
 
   ## 🧠 Currently Learning & Goals:  
 - **Deep dive into Python** (wrappers, data structures, algorithms)  
