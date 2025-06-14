@@ -7,7 +7,7 @@ I'm a **Python Developer** with a passion for clean code, problem-solving, and c
   
 ## 🎓 Education:  
 - **Radioelectronics and Telecommunications College**  
-- **Hexlet Python Course** *(currently learning)*
+- **Hexlet Python Course**
   
 ## 📚 Books I Like:
 - *Stephen King's works*  
