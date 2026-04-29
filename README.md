@@ -1,9 +1,5 @@
 # Hi there 👋
-I'm a **Python Developer** with a passion for clean code, problem-solving, and continuous learning.
-
-## ✉️ How to contact me:
-- **Email:** praense@icloud.com
-- **Telegram:** [@lovedr6s](https://t.me/lovedr6s)
+I'm a **Python Developer** with a passion for clean code, problem-solving, and continuous 
   
 ## 🎓 Education:  
 - **Radioelectronics and Telecommunications College**  
